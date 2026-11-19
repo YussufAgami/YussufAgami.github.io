@@ -1,0 +1,229 @@
+[
+  {
+    "id": "villas-mousa",
+    "title": "Villas Mousa",
+    "category": "MEP Design",
+    "type": "Residential Villas",
+    "location": "To be added",
+    "employer": "To be added",
+    "role": "MEP Design",
+    "summary": "Integrated MEP design project. Project scope and technical highlights can be added through the local editor.",
+    "description": "A residential villa project included in the MEP design portfolio.",
+    "tags": [
+      "MEP",
+      "Design"
+    ],
+    "image": "",
+    "featured": true
+  },
+  {
+    "id": "badreya-villas",
+    "title": "BADREYA Villas",
+    "category": "MEP Design",
+    "type": "Residential Villas",
+    "location": "To be added",
+    "employer": "To be added",
+    "role": "MEP Design",
+    "summary": "Integrated MEP design project. Project scope and technical highlights can be added through the local editor.",
+    "description": "A residential villa project included in the MEP design portfolio.",
+    "tags": [
+      "MEP",
+      "Design"
+    ],
+    "image": "",
+    "featured": true
+  },
+  {
+    "id": "bedaya-hospital",
+    "title": "Bedaya Hospital",
+    "category": "HVAC Design",
+    "type": "Hospital",
+    "location": "To be added",
+    "employer": "To be added",
+    "role": "HVAC Design",
+    "summary": "HVAC design project. Further technical scope and responsibilities can be added.",
+    "description": "Hospital project included in the HVAC design portfolio.",
+    "tags": [
+      "HVAC",
+      "Healthcare"
+    ],
+    "image": "",
+    "featured": true
+  },
+  {
+    "id": "al-rumithaa-hospital",
+    "title": "Al-Rumithaa Hospital",
+    "category": "HVAC Design",
+    "type": "Hospital",
+    "location": "Iraq",
+    "employer": "HTCO",
+    "role": "Junior HVAC Design Engineer",
+    "summary": "Hospital design project completed during the HTCO design-office experience.",
+    "description": "Hospital project in Iraq. Detailed HVAC systems, deliverables and responsibilities can be added through the local editor.",
+    "tags": [
+      "HVAC",
+      "Healthcare"
+    ],
+    "image": "",
+    "featured": true
+  },
+  {
+    "id": "jazebia-upwyde",
+    "title": "Jazebia-Upwyde Compound",
+    "category": "HVAC Design",
+    "type": "Commercial & Residential Buildings",
+    "location": "6 October City, Egypt",
+    "employer": "HTCO",
+    "role": "Junior HVAC Design Engineer",
+    "summary": "Commercial and residential building project completed during the HTCO design-office experience.",
+    "description": "Compound development comprising commercial and residential buildings.",
+    "tags": [
+      "HVAC",
+      "Commercial",
+      "Residential"
+    ],
+    "image": "",
+    "featured": false
+  },
+  {
+    "id": "pura-compound",
+    "title": "Pura Compound",
+    "category": "HVAC Design",
+    "type": "Residential Buildings",
+    "location": "Zayed City, Egypt",
+    "employer": "HTCO",
+    "role": "Junior HVAC Design Engineer",
+    "summary": "Residential building project completed during the HTCO design-office experience.",
+    "description": "Residential compound project. Detailed technical scope can be added later.",
+    "tags": [
+      "HVAC",
+      "Residential"
+    ],
+    "image": "",
+    "featured": false
+  },
+  {
+    "id": "golf-paradise",
+    "title": "Golf Paradise",
+    "category": "HVAC Design",
+    "type": "Residential Buildings",
+    "location": "6 October City, Egypt",
+    "employer": "HTCO",
+    "role": "Junior HVAC Design Engineer",
+    "summary": "Residential building project completed during the HTCO design-office experience.",
+    "description": "Residential building project. Detailed technical scope can be added later.",
+    "tags": [
+      "HVAC",
+      "Residential"
+    ],
+    "image": "",
+    "featured": false
+  },
+  {
+    "id": "owagik-tower",
+    "title": "Owagik Tower",
+    "category": "HVAC Design",
+    "type": "Mixed-Use Building",
+    "location": "To be added",
+    "employer": "HTCO",
+    "role": "Junior HVAC Design Engineer",
+    "summary": "Mixed-use building design project completed during the HTCO design-office experience.",
+    "description": "Mixed-use tower project. Detailed technical scope can be added later.",
+    "tags": [
+      "HVAC",
+      "Mixed-Use"
+    ],
+    "image": "",
+    "featured": false
+  },
+  {
+    "id": "r8-marasi-villas",
+    "title": "R8 Marasi Villas",
+    "category": "Technical Office",
+    "type": "Residential Villas",
+    "location": "Marasi, Egypt",
+    "employer": "Egicat",
+    "role": "Technical Office Engineer",
+    "summary": "Refrigerant piping quantity surveying and as-built documentation.",
+    "description": "Technical-office assignment involving refrigerant piping quantity surveying and as-built documentation.",
+    "tags": [
+      "QS",
+      "Refrigerant Piping",
+      "As-Built"
+    ],
+    "image": "",
+    "featured": true
+  },
+  {
+    "id": "r8-boutique-hotel",
+    "title": "R8 Boutique Hotel",
+    "category": "Technical Office",
+    "type": "Hotel",
+    "location": "Marasi, Egypt",
+    "employer": "Egicat",
+    "role": "Technical Office Engineer",
+    "summary": "HVAC piping quantity surveying.",
+    "description": "Technical-office assignment involving HVAC piping quantity surveying.",
+    "tags": [
+      "QS",
+      "HVAC Piping"
+    ],
+    "image": "",
+    "featured": false
+  },
+  {
+    "id": "cairo-metro-line-4",
+    "title": "Cairo Metro Line 4",
+    "category": "Technical Office",
+    "type": "Metro Infrastructure",
+    "location": "Cairo, Egypt",
+    "employer": "Egicat",
+    "role": "Technical Office Engineer",
+    "summary": "Refrigerant piping quantity surveying.",
+    "description": "Technical-office assignment involving refrigerant piping quantity surveying for workshop buildings.",
+    "tags": [
+      "QS",
+      "Refrigerant Piping"
+    ],
+    "image": "",
+    "featured": false
+  },
+  {
+    "id": "masjid-al-haram-expansion",
+    "title": "Masjid Al-Haram Third Expansion",
+    "category": "Technical Office",
+    "type": "Mega Building Services Project",
+    "location": "Mecca, Saudi Arabia",
+    "employer": "Current Employer",
+    "role": "Junior Mechanical Engineer",
+    "summary": "Mechanical engineering and technical-office support on a major building-services project.",
+    "description": "Mechanical design/shop/as-built drawing review, quantity requirements and quantity surveying support across HVAC, plumbing and firefighting.",
+    "tags": [
+      "MEP",
+      "HVAC",
+      "Plumbing",
+      "Firefighting",
+      "QS"
+    ],
+    "image": "",
+    "featured": true
+  },
+  {
+    "id": "king-fahd-stadium",
+    "title": "King Fahd International Stadium",
+    "category": "Technical Office",
+    "type": "Stadium Project",
+    "location": "Riyadh, Saudi Arabia",
+    "employer": "Current Employer",
+    "role": "Junior Mechanical Engineer",
+    "summary": "Mechanical engineering and technical-office support on a major stadium project.",
+    "description": "Mechanical design/shop/as-built drawing review, quantity requirements and quantity surveying support across building-services disciplines.",
+    "tags": [
+      "MEP",
+      "Technical Office",
+      "QS"
+    ],
+    "image": "",
+    "featured": true
+  }
+]
