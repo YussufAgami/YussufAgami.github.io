@@ -13,8 +13,14 @@
       "MEP",
       "Design"
     ],
-    "image": "",
-    "featured": true
+    "image": "portfolioimages/CAD%20MEP%20Modeling_Villa_1.png",
+    "featured": true,
+    "gallery": [
+      "portfolioimages/CAD%20MEP%20Modeling_Villa_1.png",
+      "portfolioimages/CAD%20MEP%20Modeling_Villa_2.png",
+      "portfolioimages/CAD%20MEP%20Modeling_Villa_3.png",
+      "portfolioimages/CAD%20MEP%20Modeling_Villa_4.png"
+    ]
   },
   {
     "id": "badreya-villas",
@@ -30,8 +36,17 @@
       "MEP",
       "Design"
     ],
-    "image": "",
-    "featured": true
+    "image": "portfolioimages/Revit%20MEP%20Modeling_Villa_1.png",
+    "featured": true,
+    "gallery": [
+      "portfolioimages/Revit%20MEP%20Modeling_Villa_1.png",
+      "portfolioimages/Revit%20MEP%20Modeling_Villa_2.png",
+      "portfolioimages/Revit%20MEP%20Modeling_Villa_3.png",
+      "portfolioimages/Revit%20MEP%20Modeling_Villa_4.png",
+      "portfolioimages/Revit%20MEP%20Modeling_Villa_5.png",
+      "portfolioimages/Revit%20MEP%20Modeling_Villa_6.png",
+      "portfolioimages/Revit%20MEP%20Modeling_Villa_7.png"
+    ]
   },
   {
     "id": "bedaya-hospital",
@@ -47,8 +62,12 @@
       "HVAC",
       "Healthcare"
     ],
-    "image": "",
-    "featured": true
+    "image": "portfolioimages/Revit%20MEP%20Modeling_Hospital_1.png",
+    "featured": true,
+    "gallery": [
+      "portfolioimages/Revit%20MEP%20Modeling_Hospital_1.png",
+      "portfolioimages/Revit%20MEP%20Modeling_Hospital_2.png"
+    ]
   },
   {
     "id": "al-rumithaa-hospital",
@@ -124,7 +143,7 @@
     "title": "Owagik Tower",
     "category": "HVAC Design",
     "type": "Mixed-Use Building",
-    "location": "To be added",
+    "location": "New Administrative Capital, Egypt",
     "employer": "HTCO",
     "role": "Junior HVAC Design Engineer",
     "summary": "Mixed-use building design project completed during the HTCO design-office experience.",
@@ -145,7 +164,7 @@
     "employer": "Egicat",
     "role": "Technical Office Engineer",
     "summary": "Refrigerant piping quantity surveying and as-built documentation.",
-    "description": "Technical-office assignment involving refrigerant piping quantity surveying and as-built documentation.",
+    "description": "Technical-office assignment on the Marasi villas and hotel: refrigerant piping quantity surveying and as-built documentation.",
     "tags": [
       "QS",
       "Refrigerant Piping",
@@ -194,10 +213,10 @@
     "category": "Technical Office",
     "type": "Mega Building Services Project",
     "location": "Mecca, Saudi Arabia",
-    "employer": "Current Employer",
-    "role": "Junior Mechanical Engineer",
-    "summary": "Mechanical engineering and technical-office support on a major building-services project.",
-    "description": "Mechanical design/shop/as-built drawing review, quantity requirements and quantity surveying support across HVAC, plumbing and firefighting.",
+    "employer": "Saudi Binladin Group",
+    "role": "MEP Mechanical Engineer (HVAC Technical Office)",
+    "summary": "Quantity surveying for HVAC, plumbing and firefighting across initial, in-progress and work-done bills on a mega building-services project.",
+    "description": "Quantity surveying (QS) for all mechanical systems — HVAC, plumbing and firefighting — in multiple phases (initial, in-progress and work-done bills), plus shop and as-built drawing preparation and submittal review.",
     "tags": [
       "MEP",
       "HVAC",
@@ -214,10 +233,10 @@
     "category": "Technical Office",
     "type": "Stadium Project",
     "location": "Riyadh, Saudi Arabia",
-    "employer": "Current Employer",
-    "role": "Junior Mechanical Engineer",
+    "employer": "Saudi Binladin Group",
+    "role": "MEP Mechanical Engineer (HVAC Technical Office)",
     "summary": "Mechanical engineering and technical-office support on a major stadium project.",
-    "description": "Mechanical design/shop/as-built drawing review, quantity requirements and quantity surveying support across building-services disciplines.",
+    "description": "Shop and as-built drawing preparation, coordinated drawings, submittal and RFI review, and quantity surveying across mechanical systems.",
     "tags": [
       "MEP",
       "Technical Office",
@@ -225,5 +244,137 @@
     ],
     "image": "",
     "featured": true
+  },
+  {
+    "id": "vacuum-priming-system",
+    "title": "Vacuum Priming System",
+    "category": "Product Development",
+    "type": "Pump Station Equipment",
+    "location": "Egypt",
+    "employer": "Hydraulic Construction Co. (HC)",
+    "role": "Junior Mechanical Power Engineer",
+    "summary": "Product development, calculations, P&ID and manufacturing drawings for a vacuum priming unit.",
+    "description": "Design development of a vacuum priming system for pump stations: sizing calculations, P&ID, factory shop drawings, material take-offs and manufacturing supervision through to site delivery.",
+    "tags": [
+      "Priming System",
+      "P&ID",
+      "Pump Station",
+      "Product Development"
+    ],
+    "image": "portfolioimages/Priming%20System%20Unit.png",
+    "gallery": [
+      "portfolioimages/Priming%20System%20Unit.png",
+      "portfolioimages/Priming%20System%20PID.png",
+      "portfolioimages/Priming%20System%20Calc.png"
+    ],
+    "featured": true
+  },
+  {
+    "id": "toshka-south-valley",
+    "title": "Development of South Valley Toshka",
+    "category": "Product Development",
+    "type": "Water Infrastructure",
+    "location": "Toshka, Egypt",
+    "employer": "Hydraulic Construction Co. (HC)",
+    "role": "Junior Mechanical Power Engineer",
+    "summary": "Pump-station and hydraulic equipment work for the South Valley Toshka development.",
+    "description": "Hydraulic equipment development for the South Valley Toshka project, including hydro-pneumatic and surge tanks, vacuum priming systems and surge analysis using KYPIPE.",
+    "tags": [
+      "Water Infrastructure",
+      "Surge Analysis",
+      "KYPIPE"
+    ],
+    "image": "portfolioimages/Toshka_1.png",
+    "gallery": [
+      "portfolioimages/Toshka_1.png"
+    ],
+    "featured": false
+  },
+  {
+    "id": "pump-room-revit-model",
+    "title": "Pump Room — Revit MEP Model",
+    "category": "MEP Design",
+    "type": "Firefighting & Plumbing Pump Room",
+    "location": "To be added",
+    "employer": "ASEC Training",
+    "role": "Mechanical Systems Design",
+    "summary": "Revit MEP model and coordinated drawings for a pump room.",
+    "description": "Revit MEP modeling of a pump room with 3D views and plan/section drawings for firefighting and plumbing systems.",
+    "tags": [
+      "Revit",
+      "Firefighting",
+      "Plumbing",
+      "Pump Room"
+    ],
+    "image": "portfolioimages/Revit%20MEP%20Modeling_Pump%20Room.png",
+    "gallery": [
+      "portfolioimages/Revit%20MEP%20Modeling_Pump%20Room.png",
+      "portfolioimages/Revit%20MEP%20Modeling_Pump%20Room_2.png",
+      "portfolioimages/Revit%20MEP%20Modeling_Pump%20Room_3.png",
+      "portfolioimages/Revit%20MEP%20Modeling_Pump%20Room_4.png"
+    ],
+    "featured": false
+  },
+  {
+    "id": "public-toilet-plumbing",
+    "title": "Public Toilet — Plumbing Model",
+    "category": "MEP Design",
+    "type": "Plumbing System",
+    "location": "To be added",
+    "employer": "ASEC Training",
+    "role": "Mechanical Systems Design",
+    "summary": "Revit MEP plumbing model for a public toilet block.",
+    "description": "Revit MEP model of the plumbing system serving a public toilet block, including supply, drainage and vent routing.",
+    "tags": [
+      "Revit",
+      "Plumbing"
+    ],
+    "image": "portfolioimages/Revit%20MEP%20Modeling_Public%20Toilet.png",
+    "gallery": [
+      "portfolioimages/Revit%20MEP%20Modeling_Public%20Toilet.png"
+    ],
+    "featured": false
+  },
+  {
+    "id": "basement-exhaust-model",
+    "title": "Basement Exhaust — Revit Model",
+    "category": "HVAC Design",
+    "type": "Basement Ventilation",
+    "location": "To be added",
+    "employer": "ASEC Training",
+    "role": "Mechanical Systems Design",
+    "summary": "Basement exhaust ventilation layout modeled in Revit.",
+    "description": "Basement exhaust and ventilation layout modeled in Revit MEP.",
+    "tags": [
+      "Revit",
+      "Ventilation",
+      "Basement"
+    ],
+    "image": "portfolioimages/Revit%20MEP%20Modeling_Basement_Eexhaust.png",
+    "gallery": [
+      "portfolioimages/Revit%20MEP%20Modeling_Basement_Eexhaust.png"
+    ],
+    "featured": false
+  },
+  {
+    "id": "revit-drawing-schedules",
+    "title": "Revit Schedules & List of Drawings",
+    "category": "BIM & Coordination",
+    "type": "BIM Documentation",
+    "location": "To be added",
+    "employer": "ASEC Training",
+    "role": "Mechanical Systems Design",
+    "summary": "Revit schedules and drawing-list setup for project documentation.",
+    "description": "Revit schedules and an automated list of drawings used to organize and issue project documentation.",
+    "tags": [
+      "Revit",
+      "Schedules",
+      "BIM"
+    ],
+    "image": "portfolioimages/Revit%20Scheduels%20List%20of%20Drawings.png",
+    "gallery": [
+      "portfolioimages/Revit%20Scheduels%20List%20of%20Drawings.png"
+    ],
+    "featured": false
   }
 ]
